@@ -1,5 +1,5 @@
-from models import ProfissionalDePodologia
-from serializers import ProfissionalDePodologiaSerializer
+from .models import ProfissionalDePodologia
+from .serializers import ProfissionalDePodologiaSerializer
 from rest_framework import viewsets
 
 
